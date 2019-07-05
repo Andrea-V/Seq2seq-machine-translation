@@ -1,4 +1,4 @@
-# MusAE: Adversarial Autoencoder for Symbolic Music Generation
+# Seq2seq-machine-translation
 
 This repository provides my implementation of a Neural Machine Translation model with attention.
 It closely follows the corresponding [tutorial](https://www.tensorflow.org/alpha/tutorials/sequences/nmt_with_attention) from the TensorFlow team.
